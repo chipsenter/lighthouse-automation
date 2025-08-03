@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "node lighthouse_automation.js",
+      "report": "node lighthouse_automation.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "JFL",
   "license": "ISC",
   "description": "",
   "devDependencies": {
