@@ -17,6 +17,5 @@ npm install -g lighthouse
 npm install lighthouse --save-dev
 
 🧪 5. Test the Script
-bash
 
-node run-lighthouse.js
+npm run start
